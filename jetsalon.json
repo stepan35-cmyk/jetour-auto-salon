@@ -1,0 +1,90 @@
+{
+  "cars": [
+    {
+      "model": "Dashing",
+      "trim": "Комфорт",
+      "engine": "1.5л бензин",
+      "power": 147,
+      "drive": "передний",
+      "price": 2259900,
+      "color": "Серебристый",
+      "transmission": "Робот",
+      "id": 780
+    },
+    {
+      "model": "Dashing",
+      "trim": "Люкс",
+      "engine": "1.5л бензин",
+      "power": 147,
+      "drive": "передний",
+      "price": 2289900,
+      "color": "Черный",
+      "transmission": "Робот",
+      "id": 471
+    },
+    {
+      "model": "Dashing",
+      "trim": "Престиж",
+      "engine": "1.5л бензин",
+      "power": 147,
+      "drive": "передний",
+      "price": 2639900,
+      "color": "Белый",
+      "transmission": "Робот",
+      "id": 850
+    },
+    {
+      "model": "X70+",
+      "trim": "Комфорт",
+      "engine": "1.6л бензин",
+      "power": 190,
+      "drive": "передний",
+      "price": 2599000,
+      "color": "Синий",
+      "transmission": "7-ступ. автомат",
+      "id": 295
+    },
+    {
+      "model": "X70+",
+      "trim": "Престиж",
+      "engine": "1.6л бензин",
+      "power": 190,
+      "drive": "передний",
+      "price": 2899000,
+      "color": "Красный",
+      "transmission": "7-ступ. автомат",
+      "id": 470
+    },
+    {
+      "model": "T1",
+      "trim": "Премиум",
+      "engine": "2л бензин",
+      "power": 245,
+      "drive": "полный",
+      "price": 4099900,
+      "color": "Темно-серый",
+      "transmission": "7-ступ. автомат",
+      "id": 499
+    },
+    {
+      "model": "X90+",
+      "trim": "Премиум",
+      "engine": "2л бензин",
+      "power": 245,
+      "drive": "полный",
+      "price": 3999000,
+      "color": "Черный",
+      "transmission": "7-ступ. автомат",
+      "id": 317
+    }
+  ],
+  "clients": [],
+  "sales": [],
+  "test_drives": [],
+  "meta": {
+    "next_car_id": 851,
+    "next_client_id": 1,
+    "next_sale_id": 1,
+    "next_testdrive_id": 1
+  }
+}
